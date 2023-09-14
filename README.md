@@ -85,22 +85,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2023-09-14 091953](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/13c83e06-ce38-45ee-b421-e3143398963c)
 # Salary Data:
 ![Screenshot 2023-09-14 092028](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/5ac3b449-45e5-42b8-93ff-3cff53cd2142)
-# 
+# Checking the null() function:
 ![Screenshot 2023-09-14 092042](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/58ff707e-5ab7-4a22-a06a-4c50dbe29225)
-#
+# Data Duplicate:
 ![Screenshot 2023-09-14 092056](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/d2c78f07-a421-4ab5-a693-40998adb1ea5)
-#
+# print Data:
 ![Screenshot 2023-09-14 092217](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/f4e87389-cc9e-4a33-ab3e-b9f213c02c8a)
-#
+# Data-Status
 ![Screenshot 2023-09-14 092247](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/e8ca9aea-cad4-434b-a380-bfc8b77e9494)
-#
+# Y_Prediction array:
 ![Screenshot 2023-09-14 092322](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/5faa5097-f601-448f-a283-97044713bd3f)
-#
+# Accuracy:
 ![Screenshot 2023-09-14 092335](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/a078773b-3353-4788-8a39-2a194edbaaa6)
-#
+# classification_report:
 ![Screenshot 2023-09-14 092452](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/66919176-5280-4337-bf8d-4d201c4a7ac2)
 
-#
+# LR_Prediction:
 
 ![Screenshot 2023-09-14 092505](https://github.com/arun1111j/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/128461833/63464877-d71b-4f98-9e23-b980a78ed164)
 
