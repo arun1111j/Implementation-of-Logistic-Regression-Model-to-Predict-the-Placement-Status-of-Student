@@ -12,6 +12,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 5.Predict the values of array.
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 7.Apply new unknown values```
+
 ## Program:
 ```
 /*
